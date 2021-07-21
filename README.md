@@ -35,4 +35,7 @@ Sou um desenvolvedor {backend, front-end e mobile}.
     />
   </a>
 </p>
+<p>
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?nildoeti=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+</p>
 
