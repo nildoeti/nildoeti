@@ -58,6 +58,4 @@ These are some of the technologies and tools that I work with:
 ![JFrog](https://img.shields.io/badge/-JFrog-41BF47?style=flat-square&logo=jfrog&logoColor=white)
 ![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-black?style=flat-square&logo=intellij-idea&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white)
-![Atom](https://img.shields.io/badge/-Atom-007ACC?style=flat-square&logo=atom-code&logoColor=white)
-![Atom](https://img.shields.io/badge/-Atom-339933?style=flat-square&logo=atom.js&logoColor=white)
 
