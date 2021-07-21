@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/nildoeti)]( www.linkedin.com/in/nildoeti)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/nildoeti)](https://twitter.com/nildoeti)
 
-### Sobre Min
+### About Me
 I'm a developer {backend, front-end e mobile}. 
 - [Courses](https://web.digitalinnovation.one/users/nildo?tab=achievements) 👨🏼‍🏫 - It's are technical courses on many technologies, such as Django, Flask, Python, Kotlin, Flutter, Dart, Git and more
 - [Blog](https://nildo.eti.br) ✍🏼 - I'm write about many things.
