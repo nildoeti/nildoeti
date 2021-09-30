@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 ### About Me
 I'm a developer {backend, front-end e mobile}. 
-- [Courses](https://web.digitalinnovation.one/users/nildo?tab=achievements) 👨🏼‍🏫 - It's are technical courses on many technologies, such as Django, Flask, Python, Kotlin, Flutter, Dart, Git and more
+- [Courses](#) 👨🏼‍🏫 - It's are technical courses on many technologies, such as Django, Flask, Python, Kotlin, Flutter, Dart, Git and more
 - [Blog](https://nildo.eti.br) ✍🏼 - I'm write about many things.
 - [Website](https://webstack.com.br) 💻 - Working on it.
 
